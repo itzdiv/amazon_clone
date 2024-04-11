@@ -1,6 +1,7 @@
 <h1>Amazon Frontend Clone</h1>
 
 <p>This project is a meticulous and comprehensive recreation of the Amazon website's frontend, built entirely from scratch using HTML and CSS. With over 1500 lines of code, this project showcases the attention to detail and dedication that went into replicating the user interface and design of one of the world's largest e-commerce platforms.</p>
+<p>For accesing the website please click this link: https://itzdiv.github.io/amazon_clone/project.html</p>
 
 <h2>Features</h2>
 
