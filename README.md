@@ -14,7 +14,7 @@
 
 <ol>
     <li>Clone the repository to your local machine.</li>
-    <li>Open the <code>index.html</code> file in your web browser to explore the Amazon frontend clone.</li>
+    <li>Open the <code>project.html</code> file in your web browser to explore the Amazon frontend clone.</li>
 </ol>
 
 <h2>Contributions</h2>
